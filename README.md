@@ -1,3 +1,13 @@
+Hugging face link for the fine-tuned model: https://huggingface.co/santerihukari/distilgpt2-dialogsum-finetuned
+
+Requested screenshots:
+
+![Sample outputs](/photo_2025-02-18_20-07-40.jpg)
+
+![Huggingface model screenshot](model_screenshot.jpg)
+
+![Analysis screenshot](analysis.jpg)
+
 Errors and Fixes
 # 1. Dependency Conflicts
 ### Error:
